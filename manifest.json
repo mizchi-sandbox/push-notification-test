@@ -1,0 +1,12 @@
+{
+  "name": "mizchi-test-app",
+  "short_name": "mizchi-test-app",
+  "icons": [{
+    "src": "saboten.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "gcm_sender_id": "493000226283"
+}
